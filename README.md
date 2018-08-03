@@ -1,4 +1,4 @@
-# Fork of VVV Custom Site Template
+# Convergence Design Lab's VVV Custom Site Template
 
 A template for CDL's WP dev site. Usage inside of Vagrant config:
 
