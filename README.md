@@ -4,7 +4,7 @@ A template for CDL's WP dev site. Usage inside of Vagrant config:
 
 ```
 cdl:
-  repo: https://github.com/mikewesthad/custom-site-template.git
+  repo: https://github.com/ConvergenceDesignLab/vvv-custom-site-template.git
   hosts:
     - cdl.test
   custom:
